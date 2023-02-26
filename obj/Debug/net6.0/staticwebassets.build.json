@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BL7nRmMBkV4OUSbFVXbT663TF8uok65B3QFT2AmwVJc=",
+  "Source": "SmarthomeRest",
+  "BasePath": "_content/SmarthomeRest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
