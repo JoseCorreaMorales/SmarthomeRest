@@ -2799,11 +2799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josec\\OneDrive\\Escritorio\\SmarthomeRest\\SmarthomeRest.csproj",
+      "projectUniqueName": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\SmarthomeRest\\SmarthomeRest.csproj",
       "projectName": "SmarthomeRest",
-      "projectPath": "C:\\Users\\josec\\OneDrive\\Escritorio\\SmarthomeRest\\SmarthomeRest.csproj",
+      "projectPath": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\SmarthomeRest\\SmarthomeRest.csproj",
       "packagesPath": "C:\\Users\\josec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josec\\OneDrive\\Escritorio\\SmarthomeRest\\obj\\",
+      "outputPath": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\SmarthomeRest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josec\\AppData\\Roaming\\NuGet\\NuGet.Config",

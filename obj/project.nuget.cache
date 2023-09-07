@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kqEoDASFH1tZFHoNgaekJRxymbn79EZvEbj4XOAsNJ+6A7DjjDL0yDpvKOd/g4U95OIwyrtWcC1TwNFsk9SCog==",
+  "dgSpecHash": "P8lPr/69kb0ppRAUXEGpERKvjzpNNFv7UjPIyrD1Oj/3OZxqoHz6vez4AuARW5FCWn28AEt3NkIoI32iCDrpcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josec\\OneDrive\\Escritorio\\SmarthomeRest\\SmarthomeRest.csproj",
+  "projectFilePath": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\SmarthomeRest\\SmarthomeRest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josec\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\josec\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
